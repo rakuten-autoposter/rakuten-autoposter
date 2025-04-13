@@ -1,0 +1,6 @@
+post_count_per_day: 3
+post_times: ["09:00", "13:00", "19:00"]
+repost_after_days: 10
+test_mode: true
+log_file: logs/post_log.csv
+caption_style: カジュアル
